@@ -1,0 +1,28 @@
+ul {
+    list-style-type: none;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    align-items: center;
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    height: 30px;
+    align-items: center;
+}
+
+.checkbox {
+    margin-left: auto;
+    order: 2;
+}
+
+.button {
+    border-style: groove;
+}
